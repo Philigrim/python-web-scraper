@@ -35,7 +35,6 @@ if __name__ == '__main__':
         column_as_list = []
         for line in list:
             column_as_list.append(line.split(" ")[word_number])
-        print(column_as_list)
         return column_as_list
 
     def request_count(list):
