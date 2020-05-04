@@ -1,0 +1,24 @@
+[
+ {
+  "title": "Ziedu Valdovas",
+  "author": "J. K. Rowling",
+  "releaseDate": "1997",
+  "category": "Laisvalaikio skaitiniai",
+  "username": "Philigrim",
+  "city": "Vilnius",
+  "price": "10.00",
+  "condition": "Puiki",
+  "comment": "-"
+ },
+ {
+  "title": "10 Oculocin",
+  "author": "Valdemaras Danys",
+  "releaseDate": "2015",
+  "category": "Laisvalaikio skaitiniai",
+  "username": "Phil",
+  "city": "Plunge",
+  "price": "101.00",
+  "condition": "Prasta",
+  "comment": "-"
+ }
+]
